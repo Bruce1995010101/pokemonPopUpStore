@@ -1,0 +1,21 @@
+
+
+
+#navStoreBooking {
+    background-color: var(--red);
+    color: var(--white);
+}
+
+#conditionInput{
+    display: none;
+}
+#conditionSelect1{
+    /* display: none; */
+}
+#conditionSelect2{
+    display: none;
+}
+#conditionSelect3{
+    /* display: none; */
+}
+
